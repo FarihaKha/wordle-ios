@@ -1,6 +1,6 @@
 # Project 1 - Wordle
 
-Submitted by: **[Fariha Kha]**
+Submitted by: **Fariha Kha**
 
 Wordle is an app that challenges players to guess a hidden 5-letter word within six attempts. With each guess, the app provides visual feedback indicating correct letters and positions.
 
