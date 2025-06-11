@@ -33,6 +33,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/yox8mEM' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<img src="https://i.imgur.com/yox8mEM.gif" width="300" alt="Wordle App Demo"/>
 
 [[Loom Demo](https://www.loom.com/share/d4b7c8b113c94d3c81d1749c2c636ea6?sid=5c330624-8c96-4b7c-8bff-45f1e43bfd08)]
 
